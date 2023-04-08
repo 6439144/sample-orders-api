@@ -7,7 +7,7 @@ info:
   description: View and track your orders and deliveries.
   termsOfService: 'This API is provided as a sample with no associated guarantees.  '
   contact:
-    name: IBM Corporation
+    name: IBM Corporation22
     url: https://www.ibm.com/products/api-connect
 basePath: /order
 x-ibm-configuration:
